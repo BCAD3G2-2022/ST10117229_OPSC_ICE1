@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643876440157",
+    "project_id": "diabetes-77e52",
+    "storage_bucket": "diabetes-77e52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643876440157:android:7df42bd1a0cb96cb7b25b4",
+        "android_client_info": {
+          "package_name": "com.varsitycollege.diabetes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643876440157-8ced5m7lb5btic5acul380bd9hj95255.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvCx3Aew2wdmUC1nI6FqhdvM2dAhGNnuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643876440157-8ced5m7lb5btic5acul380bd9hj95255.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
